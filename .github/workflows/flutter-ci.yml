@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - master
+      - feature/android-build
     paths-ignore:
       - ".github/**"
       - "docs/**"
